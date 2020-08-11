@@ -1,0 +1,22 @@
+{
+  "name": "jamalul-clinic",
+  "version": "1.0.0",
+  "description": "a back-office solution for the Jamalul Clinic",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/seanpe11/Jamalul-Clinic.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/seanpe11/Jamalul-Clinic/issues"
+  },
+  "homepage": "https://github.com/seanpe11/Jamalul-Clinic#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
